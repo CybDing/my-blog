@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/math-01-numerical-analysis/01-error-analysis/"}
 ---
 
-
 ## 误差分析
 - 绝对误差 $e = x-\tilde{x}$
 - 相对误差 $\delta_{x}= \dfrac{x-\tilde{x}}{x}$
